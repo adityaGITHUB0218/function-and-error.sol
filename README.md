@@ -4,7 +4,7 @@ ExampleContract is a smart contract implemented in Solidity that demonstrates th
 # Features
 Ownership Control: Only the owner can set the value and withdraw funds.
 Value Constraint: The value can only be set within a predefined range.
-Error Handling: Utilizes require(), assert(), and revert() for robust error management.
+Error Handling: Utilizes require(), assert(), and revert() for robust error management
 
 # Smart Contract Implementation
 # SPDX License Identifier
